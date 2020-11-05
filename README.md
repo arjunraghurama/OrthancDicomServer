@@ -1,4 +1,4 @@
-https://img.shields.io/github/license/arjunraghurama/OrthancDicomServer?style=for-the-badge
+![License](https://img.shields.io/github/license/arjunraghurama/OrthancDicomServer?style=for-the-badge)
 
 # OrthancDicomServer
 
